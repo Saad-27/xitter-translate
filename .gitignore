@@ -1,0 +1,7 @@
+    # .gitignore
+    twitter-bot-env/
+    __pycache__/
+    *.pyc
+    *.pyo
+    *.pyd
+    .env
